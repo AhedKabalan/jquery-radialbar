@@ -6,6 +6,7 @@ Radial Bar jQuery Plugin
 ## Example
 
 [https://www.jqueryscript.net/chart-graph/stacked-donut-radial-bar.html](https://www.jqueryscript.net/chart-graph/stacked-donut-radial-bar.html)
+
 [Online Demo](https://ahedkabalan.github.io/jquery-radialbar/)
 
 ```
